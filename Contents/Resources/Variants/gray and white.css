@@ -8,8 +8,8 @@ a:active, a:hover, a:visited, a:link {}
 #sn {color: #191fb1;}
 #dollar {color: #FFF;}
 
-#incoming {color: #FFF;}
-#incoming em {color: #FFF; background-color: #222;}
+#incoming {color: #FF61F6;}
+#incoming em {color: #FF61F6; background-color: #222;}
 
 #status {color: #EEE;}
 #filetransfer {color: #fdfc7e;}

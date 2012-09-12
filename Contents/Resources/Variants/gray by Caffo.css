@@ -1,16 +1,16 @@
 @import url("../main.css");
-body {color: #ccc;}
-a {color: #ccc;}
-#incoming a {color: #ff5bff;}
-a:active, a:hover, a:visited, a:link {}
+body {color: #B8ADA1;}
+a {color: #B8ADA1;}
+#incoming a {color: #B8ADA1;}
+a:active, a:hover, a:visited, a:link { background-color: #333; color: #B8ADA1;}
 
-#sendername {color: #7f7f7f;}
-#service {color: #7f7f7f;}
+#sendername {color: #A1877F;}
+#service {color: #A1877F;}
 #sn {color: #7f7f7f;}
-#dollar {color: #FFF;}
+#dollar {color: #A1877F;}
 
-#incoming {color: #808080;}
-#incoming em {color: #808080; background-color: #333;}
+#incoming {color: #B9A088;}
+#incoming em {color: #B9A088; background-color: #333;}
 
-#status {color: #ff5bff;}
+#status {color: #B8ADA1;}
 #filetransfer {color: #808080;}
